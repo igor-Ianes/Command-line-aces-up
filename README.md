@@ -14,9 +14,13 @@
 
 ## GAME SCREESHOTS
 
-![load error](/images/aces up.png
+  ### TITLE SCREEN
 
-![load error](/images/aces up.png "title screen"))
+![load error](/images/aces%20up.png "title screen")
+
+
+  ### IN GAME
+![load error](/images/ingame.png "in game")
 
 ## BUILD
 
