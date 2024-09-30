@@ -12,6 +12,12 @@
 2. GNU Make
 
 
+## GAME SCREESHOTS
+
+![load error](/images/aces up.png
+
+![load error](/images/aces up.png "title screen"))
+
 ## BUILD
 
 * make all                      -- para compilação e execução do arquivo
